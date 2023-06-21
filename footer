@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+    <title>footer</title>
+    <link rel="stylesheet" href="stylefoot.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <footer>
+    <div class="content">
+      <div class="top">
+        <div class="logo-details">
+          <use xlink:href="#logo" x="0" y="0"></use>
+        <div class="media-icons">
+          <a href="https://www.facebook.com/groenlinks"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://twitter.com/groenlinks"><i class="fab fa-twitter"></i></a>
+          <a href="https://www.instagram.com/groenlinks/"><i class="fab fa-instagram"></i></a>
+          <a href="#"><i class="fab fa-linkedin-in"></i></a>
+          <a href="https://www.youtube.com/user/groenlinks"><i class="fab fa-youtube"></i></a>
+        </div>
+      </div>
+      <div class="link-boxes">
+        <ul class="box">
+          <li class="link_name">Company</li>
+          <li><a href="homepage2.html">Home</a></li>
+          <li><a href="#">Contact us</a></li>
+          <li><a href="#">About us</a></li>
+          <li><a href="#">Get started</a></li>
+        </ul>
+        
+       
+        
+      </div>
+    </div>
+    <div class="bottom-details">
+      <div class="bottom_text">
+        <span class="copyright_text">Copyright © 2021 <a href="#">CodingLab.</a>All rights reserved</span>
+        <span class="policy_terms">
+          <a href="privicy.html">Privacy policy</a>
+          <a href="#">Terms & condition</a>
+        </span>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
